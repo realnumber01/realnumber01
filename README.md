@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realnumber01
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data Analysis
+- 💞️ I’m looking to collaborate on Big Data Analysis
 - 📫 How to reach me ...twitter.com/@AyoolaQuadri97
 
 <!---
